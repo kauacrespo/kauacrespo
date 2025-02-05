@@ -27,7 +27,7 @@
 
 ###
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/e3/20/c1/e320c15d441957a2331d519f8c802120.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/e3/20/c1/e320c15d441957a2331d519f8c802120.gif"  />
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
