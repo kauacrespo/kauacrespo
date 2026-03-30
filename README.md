@@ -55,12 +55,6 @@ Atualmente, estou aprimorando minhas habilidades através de projetos práticos,
 
 ---
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauacrespo&theme=shadow_red_icons=true)
-
----
-
 ## 📚 Atualmente estudando
 Spring Security
 Docker
@@ -88,7 +82,8 @@ Conseguir minha primeira oportunidade como desenvolvedor Java e crescer profissi
 
 ## 📫 Contato
 LinkedIn: [https://www.linkedin.com/in/kauã-carlos-43657720b/]
-Email: [mailto:kauacarlosbr3@gmail.com]
+
+Email: [kauacarlosbr3@gmail.com]
 
 ---
 
