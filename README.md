@@ -1,4 +1,4 @@
-# sejam Bem vindo ao meu Github
+# sejam Bem vindos ao meu Github
 
 🚀 **Desenvolvedor Back-end Java | Em início de carreira**
 🇧🇷 Brasil
