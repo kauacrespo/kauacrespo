@@ -57,10 +57,7 @@ Atualmente, estou aprimorando minhas habilidades através de projetos práticos,
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauacrespo&theme=shadow_red_icons=true)
 
 ---
 
@@ -90,5 +87,9 @@ Conseguir minha primeira oportunidade como desenvolvedor Java e crescer profissi
 ---
 
 ## 📫 Contato
-LinkedIn: [seu-link-aqui]
-Email: [seu-email-aqui]
+LinkedIn: [https://www.linkedin.com/in/kauã-carlos-43657720b/]
+Email: [mailto:kauacarlosbr3@gmail.com]
+
+---
+
+ ⭐ Obrigado por visitar meu perfil!
